@@ -1,0 +1,12 @@
+.btn{
+    border-radius: 2px;
+}
+.form-control{
+    border-radius: 2px;
+}
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
